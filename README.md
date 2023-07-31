@@ -1,6 +1,6 @@
 **Stock Time Series Data Analysis Project**
 
-![Logo](Assets/stock.jpg) *(If you have a logo, replace 'logo.png' with the file name of your logo)*
+![Logo](Assets/stock.jpg)
 
 Welcome to the Stock Time Series Data Analysis Project! This project aims to perform Exploratory Data Analysis (EDA) and analyze time series data of stock prices. Below are instructions on how to run the project and an overview of the different analyses performed.
 
